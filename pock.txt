@@ -1,0 +1,14 @@
+Interview w/ Lauren - Mozilla
+
+- Job Description
+- Remote or Office role?
+- Team Structure
+- PM role for feature specifically?
+- Reporting to?
+- Are there just PM roles, are most PMs Senior positions?
+- Pocket: Analytics, does pocket track user analytics/behavior, especially since Mozilla is so privacy focused?
+- Pocket: Recommendations, does pocket use any algorithm that prevents the journalistic and social media "bubble"
+- Pocket: Pocket, seems primarily focused with twitter as far as app integration.  Do you think Pocket will ever integrate with other popular apps such as IG or Reddit?
+- Pocket: Does Pocket set app review goals, both on extension web stores as well as mobile application stores?
+- Pocket: Is there a product education department? 
+- Pocket: Love the text-to-speech feature, really amazing and can change how younger people receive news (I personally believe).  Couldn't stop recording when I had an incoming call on Android though.
